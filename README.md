@@ -2,7 +2,7 @@
 
 ## File
 
-* `server6.js`
+* `server.js`
 
 ## Instructions
 
